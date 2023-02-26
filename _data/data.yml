@@ -3,219 +3,150 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Thomas Guesnon
+    tagline: Designer - outils numériques
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: bonjour@thomasguesnon.fr
+    phone: +33 6 08 55 13 55
+    timezone: Paris
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: thomasguesnon.fr
+    linkedin: thomasguesnon
     xing: alandoe
-    github: sharu725
+    github: patjennings
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    gitlab: patjennings
+    twitter: '@thomasguesnon'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Français
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Musique (Guitare, basse, synths)
+          link: soundcloud.com
+
+        - item: Histoires, sciences humaines
           link:
 
-        - item: Snowboarding
+        - item : Photographie
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
-    title: Career Profile
+    title: Résumé
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      J'accompagne les entreprises, petites ou grosses, dans la conception
+      d'outils numériques. Sur quoi : applications web ou embarquées,
+      smartphone, tablettes. Et sur les besoins de ceux qui les utilisent.
+      Comment : architecture et visualisation de l'information, ergonomie.
+      Avec quel outils : oreilles, cerveau, design systems, cartographie, dataviz,
+      prototypage, animation 2D/3D
 education:
-    title: Education
+    title: Formation
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diplôme National d'Arts et Techniques obtenu en octobre 2006.
+        university: École Régionale des Beaux-Arts de Caen 
+        time: 2001 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Je suis formé à l'École des Beaux-Arts de Caen, de 2001 à 2006.
+          J'y apprends le design graphique, la typographie, la photographie
+          et le développement informatique. Je perfectionne ces compétences
+          tout au long de mon parcours professionnel.
 experiences:
-    title: Experiences
+    title: Expériences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Designer 
+        time: 2018 - maintenant
+        company: Indépendant, Quimper, Bretagne
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Accompagnement dans la conception d'interfaces et d'expériences
+          utilisateur, réalisation d'animations (films, simulations d'interfaces)
+          Clients : APBO, Cobuy, Hager, Renault, Uvasc
+          - Design UI
+          - design UX
+          - motion design
+          - écriture de documentation
+          - création de prototypes
+          - suivi client
+      - role: Designer d'interface
+        time: 2012 - 2018 
+        company: Indépendant, Quimper, Bretagne
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Conception d’interfaces homme-machine pour applications tablettes et smartphones, systèmes de supervision, HUD, webapps. Ces applications concernent des utilisateurs variés dans la santé, l’éducation, l’aéronautique ou les télécommunications. Clients : Grands groupes et startups, Bic Education, Renault, Restlet, Thales, SNCF
+          - Direction artistique,
+          - UX,
+          - création de wireframes et de guidelines UI
+          - création de prototypes. 
+
+      - role: Directeur artistique web
+        time: 2010 - 2012
+        company: Hyptique, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          Direction artistique pour des projets web culturels et publics.
+          Clients : La Documentation Française, le Cemagref, le Museum National d’Histoire Naturelle, le Ministère de la Santé, le Musée d’art moderne André Malraux du Havre.
+          - Réponses à appels d’offres pour marchés publics
+          - conception avec le chef de projet
+          - production en relation avec les développeurs internes et externes.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - role: Webdesigner
+        time: 2007 - 2010
+        company: Metropolitan Influence, Paris
+        details: |
+          Création de sites web et de supports de communication online.
+          Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
+          - Participation à toutes les phases de production, du design graphique à la mise en ligne, en relation directe avec le client.
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Figma 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: After Effects
         level: 98%
 
-      - name: Angular
+      - name: Blender
         level: 98%
+
+      - name: Javascript
+        level: 60%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name : Adobe Suite
+        level : 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name : PHP
+        level : 35%
+
+      - name : NodeJS
+        level : 35%
+
+      - name : outils SIG
+        level : 40%
+
+      - name : Bash & Python scripts
+        level : 25%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
