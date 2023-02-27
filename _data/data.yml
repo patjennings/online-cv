@@ -17,12 +17,12 @@ sidebar:
     timezone: Paris
     citizenship:
     website: thomasguesnon.fr
-    linkedin: thomasguesnon
+    linkedin: thomas-guesnon
     xing: 
     github: patjennings
     telegram: # add your nickname without '@' sign
     gitlab: patjennings
-    twitter: '@thomasguesnon'
+    twitter: '@patjennnnnings'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -88,7 +88,7 @@ experiences:
           - suivi client
       - role: Designer d'interface
         time: 2012 - 2018 
-        company: Indépendant, Quimper, Bretagne
+        company: Use Design, Paris
         details: |
           Conception d’interfaces homme-machine pour applications tablettes et smartphones, systèmes de supervision, HUD, webapps. Ces applications concernent des utilisateurs variés dans la santé, l’éducation, l’aéronautique ou les télécommunications. Clients : Grands groupes et startups, Bic Education, Renault, Restlet, Thales, SNCF
           - Direction artistique,
@@ -113,6 +113,32 @@ experiences:
           Création de sites web et de supports de communication online.
           Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
           - Participation à toutes les phases de production, du design graphique à la mise en ligne, en relation directe avec le client.
+projects:
+    title: Projects
+    intro: >
+      Une sélection de projets réalisés au cours de mon parcours
+    assignments:
+      - title: Proteus - Thales - 2013
+        link: "https://www.thomasguesnon.fr/projets/avionics-2020"
+        tagline: "Poste de pilotage innovant pour bizjet"
+
+      - title: SNCF
+        link: "#hook"
+        tagline: ""
+
+oss:
+    title: OSS Contributions & side-projects
+    intro: >
+      Des contributions open source et des projets non-rémunérés
+    contributions:
+      - title: Robobatteur
+        link: "#"
+        tagline: "Un batteur électronique, construit avec Arduino"
+
+      - title: FreshRSS
+        link: "#"
+        tagline: "Thèmes graphiques pour FreshRSS."
+
 skills:
     title: Skills &amp; Proficiency
 
