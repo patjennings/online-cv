@@ -15,8 +15,8 @@ sidebar:
     # Sidebar links
     email: bonjour@thomasguesnon.fr
     phone: +33 6 08 55 13 55
-    timezone: Paris
-    citizenship:
+    timezone: Paris, GMT +1
+    citizenship: Français
     website: thomasguesnon.fr
     linkedin: thomas-guesnon
     xing: 
@@ -33,16 +33,16 @@ sidebar:
       title: Languages
       info:
         - idiom: Français
-          level: Native
+          level: Natif
 
         - idiom: English
-          level: Professional
+          level: Professionnel
 
     interests:
       title: Interests
       info:
         - item: Musique (Guitare, basse, synths)
-          link: soundcloud.com
+          link: http://soundcloud.com/thomasguesnon
 
         - item: Histoires, sciences humaines
           link:
@@ -176,4 +176,3 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
