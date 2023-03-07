@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://
+    pdf: 
 
     languages:
       title: Languages
@@ -41,7 +41,7 @@ sidebar:
     interests:
       title: Centres d'intérêt
       info:
-        - item: Musique (Guitare, basse, synths)
+        - item: Musique (Guitare, basse) 
           link: 
 
         - item: Histoires, sciences humaines
@@ -63,7 +63,7 @@ career-profile:
 education:
     title: Formation
     info:
-      - degree: Diplôme National d'Arts et Techniques obtenu en octobre 2006.
+      - degree: Diplôme National d'Arts et Techniques
         university: École Régionale des Beaux-Arts de Caen 
         time: 2001 - 2006
         details: |
