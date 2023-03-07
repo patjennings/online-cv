@@ -146,20 +146,18 @@ skills:
        - name: Design
        - name: Expérience utilisateur
        - name: Motion design
-       - name: Visualisation & Organisation de l'information
+       - name: Visualisation & organisation de l'information
        - name: Typographie
        - name: Ergonomie
        - name: Développement front
-       - name: Logiciel libre
 
 tools:
   title: Outils
   daily:
      title: Usage quotidien
      list:
-       - name: Environnements - MacOS, Linux (Debian), Windows
-       - name: Conception UX - Figma, Sketch
-       - name: Animation, motion - Blender, After Effects
+       - name: Outils UX - Figma, Sketch
+       - name: Outils d'animation - Blender, After Effects
        - name: Illustrator
        - name: HTML/CSS
        - name: Javascript
@@ -172,7 +170,7 @@ tools:
       - name: Langages web (serveur) - PHP, Node
       - name: Cartographie, SIG - Mapbox, JOSM, QGIS
       - name: Git
-      - name: Ligne de commande, administration de serveur
+      - name: Administration de serveur, scripting Bash/Python
       - name: CMS (Wordpress, Drupal)
 
 footer: >
