@@ -5,21 +5,26 @@
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
-{% include head.html %}
+    {% include head.html %}
 
-<body>
-  <div class="wrapper">
-    {% include sidebar.html %}
+    <body>
+        <div class="wrapper">
+            <div class="container wrapper">
+                <div class="row">
+                    <div class="col-sm-3 sidebar-wrapper">
+                        {% include sidebar.html %}
+                    </div>
+                    <div class="col-sm-9 main-wrapper">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
 
-    <div class="main-wrapper">
-        {{ content }}
-    </div>
-  </div>
+        {% include footer.html %}
 
-  {% include footer.html %}
-
-{% include scripts.html %}
-</body>
+        {% include scripts.html %}
+    </body>
 
 </html>
 

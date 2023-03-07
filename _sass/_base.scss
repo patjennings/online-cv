@@ -34,8 +34,9 @@ p {
 }
 
 .wrapper {
-    display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    /* display: grid; */
+    /* grid-template-columns: repeat(10, 1fr); */
+    background: $white;
     max-width: 1000px;
     margin: 0 auto;
     position: relative;
@@ -43,7 +44,7 @@ p {
 }
 
 .sidebar-wrapper {
-    grid-column: span 3;
+    /* grid-column: span 3; */
     order: 0;
     background: $white;
     a {
