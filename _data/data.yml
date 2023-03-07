@@ -23,7 +23,7 @@ sidebar:
     github: patjennings
     telegram: # add your nickname without '@' sign
     gitlab: patjennings
-    twitter: '@patjennnnnings'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,14 +35,14 @@ sidebar:
         - idiom: Français
           level: Natif
 
-        - idiom: English
+        - idiom: Anglais
           level: Professionnel
 
     interests:
-      title: Interests
+      title: Centres d'intérêt
       info:
         - item: Musique (Guitare, basse, synths)
-          link: http://soundcloud.com/thomasguesnon
+          link: 
 
         - item: Histoires, sciences humaines
           link:
@@ -115,7 +115,7 @@ experiences:
           Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
           - Participation à toutes les phases de production, du design graphique à la mise en ligne, en relation directe avec le client.
 projects:
-    title: Projects
+    title: Projets
     intro: >
       Une sélection de projets réalisés au cours de mon parcours
     assignments:
@@ -128,7 +128,7 @@ projects:
         tagline: ""
 
 oss:
-    title: OSS Contributions & side-projects
+    title: Contributions OSS, autres projets 
     intro: >
       Des contributions open source et des projets non-rémunérés
     contributions:
@@ -141,38 +141,38 @@ oss:
         tagline: "Thèmes graphiques pour FreshRSS."
 
 skills:
-    title: Skills &amp; Proficiency
+     title: Compétences
+     list:
+       - name: Design
+       - name: Expérience utilisateur
+       - name: Motion design
+       - name: Visualisation & Organisation de l'information
+       - name: Typographie
+       - name: Ergonomie
+       - name: Développement front
+       - name: Logiciel libre
 
-    toolset:
-      - name: Figma 
-        level: 98%
-
-      - name: After Effects
-        level: 98%
-
-      - name: Blender
-        level: 98%
-
-      - name: Javascript
-        level: 60%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name : Adobe Suite
-        level : 90%
-
-      - name : PHP
-        level : 35%
-
-      - name : NodeJS
-        level : 35%
-
-      - name : outils SIG
-        level : 40%
-
-      - name : Bash & Python scripts
-        level : 25%
-
+tools:
+  title: Outils
+  daily:
+     title: Usage quotidien
+     list:
+       - name: Environnements - MacOS, Linux (Debian), Windows
+       - name: Conception UX - Figma, Sketch
+       - name: Animation, motion - Blender, After Effects
+       - name: Illustrator
+       - name: HTML/CSS
+       - name: Javascript
+       - name: Emacs, org-mode
+  occasional:
+    title: Usage régulier et occasionnel
+    list:
+      - name: PAO - Suite Adobe, Inkscape, GIMP, Scribus
+      - name: Libre Office
+      - name: Langages web (serveur) - PHP, Node
+      - name: Cartographie, SIG - Mapbox, JOSM, QGIS
+      - name: Git
+      - name: Ligne de commande, administration de serveur
+      - name: CMS (Wordpress, Drupal)
 
 footer: >

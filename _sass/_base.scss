@@ -110,6 +110,7 @@ p {
             }
         }
         .meta {
+            font-size: 1rem;
         }
         .time {
         }
@@ -158,6 +159,10 @@ p {
             }
         }
     }
+    .subsection-title{
+        font-size: 1rem;
+        
+}
     .section {
         margin-bottom: 4rem;
     }
@@ -236,8 +241,6 @@ p {
 
 .skillset {
     .item {
-        margin-bottom: 15px;
-        overflow: hidden;
     }
     .level-title {
         font-size: 1rem;
@@ -254,7 +257,6 @@ p {
         background: lighten($theme-color, 15%);
     }
 }
-
 .footer {
     padding-top: 30px;
     .copyright {
@@ -266,4 +268,11 @@ p {
     .fa-heart {
         color: $heart;
     }
+}
+
+// override bootstrap
+.col{
+    padding: 0;
+    padding-right: 2rem;   
+
 }

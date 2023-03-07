@@ -1,0 +1,41 @@
+{% assign tools = site.data.data.tools %}
+{% assign daily_tools = site.data.data.tools.daily %}
+{% assign occasional_tools = site.data.data.tools.occasional %}
+<h2 class="section-title">{{tools.title}}</h2>
+<div class="container">
+    
+    {% if daily_tools %}
+    <div class="row">
+        <div class="col">
+            <section class="skills-section section">
+                <h6 class="subsection-title">
+                    {{ daily_tools.title }}
+                </h6>
+                <ul class="skillset">
+                    {% for tool in daily_tools.list %}
+                    <li class="item">{{tool.name }}</li>
+                    {% endfor %}
+
+                </ul>
+            </section><!--//skills-section-->
+        </div>
+        {% endif %}
+        <div class="col">
+            {% if occasional_tools %}
+            <section class="skills-section section">
+                <h6 class="subsection-title">
+                    {{ occasional_tools.title }}
+                </h6>
+
+                <ul class="skillset">
+                    {% for tool in occasional_tools.list %}
+                    <li class="item">{{tool.name }}</li>
+                    {% endfor %}
+
+                </ul>
+
+            </section><!--//skills-section-->
+            {% endif %}
+        </div>
+    </div>
+</div>
