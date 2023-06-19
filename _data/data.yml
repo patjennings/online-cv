@@ -123,10 +123,6 @@ projects:
         link: "https://www.thomasguesnon.fr/fr/work/avionics-2020"
         tagline: "Poste de pilotage innovant pour bizjet"
 
-      - title: Système solaire
-        link: "https://www.thomasguesnon.fr/fr/work/systeme-solaire"
-        tagline: ""
-
 oss:
     title: Contributions OSS, autres projets 
     intro: >
