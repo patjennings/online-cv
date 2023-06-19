@@ -120,11 +120,11 @@ projects:
       Une sélection de projets réalisés au cours de mon parcours
     assignments:
       - title: Proteus - Thales - 2013
-        link: "https://www.thomasguesnon.fr/projets/avionics-2020"
+        link: "https://www.thomasguesnon.fr/fr/work/avionics-2020"
         tagline: "Poste de pilotage innovant pour bizjet"
 
-      - title: SNCF
-        link: "#hook"
+      - title: Système solaire
+        link: "https://www.thomasguesnon.fr/fr/work/systeme-solaire"
         tagline: ""
 
 oss:
@@ -133,12 +133,16 @@ oss:
       Des contributions open source et des projets non-rémunérés
     contributions:
       - title: Robobatteur
-        link: "#"
+        link: "https://www.thomasguesnon.fr/docs/robobatteur.html"
         tagline: "Un batteur électronique, construit avec Arduino"
 
       - title: FreshRSS
-        link: "#"
+        link: "https://github.com/FreshRSS/FreshRSS/pulls?q=is%3Apr+author%3A%40me"
         tagline: "Thèmes graphiques pour FreshRSS."
+
+      - title: Système solaire
+        link: "https://www.thomasguesnon.fr/fr/work/systeme-solaire"
+        tagline: "Vidéo pédagogique sur le système solaire"
 
 skills:
      title: Compétences
