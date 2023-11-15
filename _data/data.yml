@@ -9,8 +9,8 @@ sidebar:
 
     # Profile information
     name: Thomas Guesnon
-    tagline: Designer - outils numériques
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Designer - interaction & motion
+    avatar: portrait.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bonjour@thomasguesnon.fr
@@ -74,7 +74,7 @@ education:
 experiences:
     title: Expériences
     info:
-      - role: Designer 
+      - role: Designer - interaction & motion
         time: 2018 - maintenant
         company: Indépendant, Quimper, Bretagne
         details: |
