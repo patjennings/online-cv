@@ -54,12 +54,7 @@ sidebar:
 career-profile:
     title: Résumé
     summary: |
-      J'accompagne les entreprises, petites ou grosses, dans la conception
-      d'outils numériques. Sur quoi : applications web ou embarquées,
-      smartphone, tablettes. Et sur les besoins de ceux qui les utilisent.
-      Comment : architecture et visualisation de l'information, ergonomie.
-      Avec quel outils : oreilles, cerveau, design systems, cartographie, dataviz,
-      prototypage, animation 2D/3D
+      Je crée des interfaces et des animations. Pour proposer des expériences visuellement attrayantes et efficaces, je m'attaque aux problèmes visuels, d'architecture et de visualisation de l'information, d'ergonomie. Avec quel outils : oreilles, cerveau, animation 2D/3D, typographie, design systems, cartographie, dataviz, code
 education:
     title: Formation
     info:
@@ -75,7 +70,7 @@ experiences:
     title: Expériences
     info:
       - role: Designer - interaction & motion
-        time: 2018 - maintenant
+        time: depuis 2018
         company: Indépendant, Quimper, Bretagne
         details: |
           Accompagnement dans la conception d'interfaces et d'expériences
