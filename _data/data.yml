@@ -19,8 +19,9 @@ sidebar:
     citizenship: Français
     website: thomasguesnon.fr
     linkedin: thomas-guesnon
+    behance: thomasguesnon
     xing: 
-    github: patjennings
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab: patjennings
     twitter: 
@@ -115,7 +116,7 @@ projects:
       Une sélection de projets réalisés au cours de mon parcours
     assignments:
       - title: Proteus - Thales - 2013
-        link: "https://www.thomasguesnon.fr/fr/work/avionics-2020"
+        link: "https://www.thomasguesnon.fr/fr/work/thales-proteus"
         tagline: "Poste de pilotage innovant pour bizjet"
 
 oss:
