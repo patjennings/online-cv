@@ -2,171 +2,306 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 site:
-  theme-skin: orange
+    theme-skin: blue
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Thomas Guesnon
-    tagline: Designer - interaction & motion
+    tagline: 
+        fr:
+            title: Designer - interaction & motion
+        en:
+            title: Designer - interaction & motion
     avatar: portrait.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bonjour@thomasguesnon.fr
     phone: +33 6 08 55 13 55
     timezone: Paris, GMT +1
-    citizenship: Français
+    citizenship: 
+        fr:
+            title: Français
+        en:
+            title: French
     website: thomasguesnon.fr
     linkedin: thomas-guesnon
     behance: thomasguesnon
-    xing: 
-    github: 
     telegram: # add your nickname without '@' sign
     gitlab: patjennings
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
     languages:
-      title: Languages
-      info:
-        - idiom: Français
-          level: Natif
+        fr:
+            title: Langues
+            info:
+              - idiom: Français
+                level: Natif
 
-        - idiom: Anglais
-          level: Professionnel
+              - idiom: Anglais
+                level: Professionnel
+        en:
+            title: Languages
+            info:
+              - idiom: French
+                level: Native
+
+              - idiom: English
+                level: Professionnal
 
     interests:
-      title: Centres d'intérêt
-      info:
-        - item: Musique (Guitare, basse) 
-          link: 
+        fr:
+            title: Centres d'intérêt
+            info:
+              - item: Musique (Guitare, basse) 
+                link: 
 
-        - item: Histoires, sciences humaines
-          link:
+              - item: Histoires, sciences humaines
+                link:
 
-        - item : Photographie
-          link:
+              - item : Photographie
+                link:
+        en:
+            title: Main interests
+            info:
+              - item: Music (Guitar, bass) 
+                link: 
+
+              - item: History, human sciences
+                link:
+
+              - item : Photography
+                link:
 
 
 career-profile:
-    title: Résumé
-    summary: |
-      Je crée des interfaces et des animations. Pour proposer des expériences visuellement attrayantes et efficaces, je m'attaque aux problèmes visuels, d'architecture et de visualisation de l'information, d'ergonomie. Avec quel outils : oreilles, cerveau, animation 2D/3D, typographie, design systems, cartographie, dataviz, code
+    fr:
+        title: Résumé
+        summary: |
+         Je crée des interfaces et des animations. Pour proposer des expériences visuellement attrayantes et efficaces, je m'attaque aux problèmes visuels, d'architecture et de visualisation de l'information, d'ergonomie. Avec quel outils : oreilles, cerveau, animation 2D/3D, typographie, design systems, cartographie, dataviz, code.
+    en:
+        title: Summary
+        summary: |
+         I design user interfaces and animations. In order to deliver visually exciting and efficient experiences, i tackle problems like visual design, information architecture, data visualisation and ergonomy. With these tools : ears, brain, 2D/2D animation, typography, design systems, cartography, dataviz, coding.
+
 education:
-    title: Formation
-    info:
-      - degree: Diplôme National d'Arts et Techniques
-        university: École Régionale des Beaux-Arts de Caen 
-        time: 2001 - 2006
-        details: |
-          Je suis formé à l'École des Beaux-Arts de Caen, de 2001 à 2006.
-          J'y apprends le design graphique, la typographie, la photographie
-          et le développement informatique. Je perfectionne ces compétences
-          tout au long de mon parcours professionnel.
+    fr:
+        title: Formation
+        info:
+          - degree: Diplôme National d'Arts et Techniques
+            university: École Régionale des Beaux-Arts de Caen 
+            time: 2006
+            details: |
+    en:
+        title: Education
+        info:
+          - degree: National Degree of Arts and Techniques
+            university: Regional Fine Arts School of Caen
+            time: 2006
+            details: |
+
 experiences:
-    title: Expériences
-    info:
-      - role: Designer - interaction & motion
-        time: depuis 2018
-        company: Indépendant, Quimper, Bretagne
-        details: |
-          Accompagnement dans la conception d'interfaces et d'expériences
-          utilisateur, réalisation d'animations (films, simulations d'interfaces)
-          Clients : APBO, Cobuy, Hager, Renault, Uvasc
-          - Design UI
-          - design UX
-          - motion design
-          - écriture de documentation
-          - création de prototypes
-          - suivi client
-      - role: Designer d'interface
-        time: 2012 - 2018 
-        company: Use Design, Paris
-        details: |
-          Conception d’interfaces homme-machine pour applications tablettes et smartphones, systèmes de supervision, HUD, webapps. Ces applications concernent des utilisateurs variés dans la santé, l’éducation, l’aéronautique ou les télécommunications. Clients : Grands groupes et startups, Bic Education, Renault, Restlet, Thales, SNCF
-          - Direction artistique,
-          - UX,
-          - création de wireframes et de guidelines UI
-          - création de prototypes. 
+    fr:
+        title: Expériences
+        info:
+          - role: Designer - interaction & motion
+            time: depuis 2018
+            company: Indépendant, Quimper, Bretagne
+            details: |
+              Accompagnement dans la conception d'interfaces et d'expériences
+              utilisateur, réalisation d'animations (films, simulations d'interfaces)
+              Clients : APBO, Cobuy, Hager, Renault, Uvasc
+              - Design UI
+              - design UX
+              - motion design
+              - écriture de documentation
+              - création de prototypes
+              - suivi client
+          - role: Designer d'interaction
+            time: 2012 - 2018 
+            company: Use Design, Paris
+            details: |
+              Conception d’interfaces homme-machine pour applications tablettes et smartphones, systèmes de supervision, HUD, webapps. Ces applications concernent des utilisateurs variés dans la santé, l’éducation, l’aéronautique ou les télécommunications. Clients : Grands groupes et startups, Bic Education, Renault, Restlet, Thales, SNCF
+              - Direction artistique,
+              - UX,
+              - création de wireframes et de guidelines UI
+              - création de prototypes. 
 
-      - role: Directeur artistique web
-        time: 2010 - 2012
-        company: Hyptique, Paris
-        details: |
-          Direction artistique pour des projets web culturels et publics.
-          Clients : La Documentation Française, le Cemagref, le Museum National d’Histoire Naturelle, le Ministère de la Santé, le Musée d’art moderne André Malraux du Havre.
-          - Réponses à appels d’offres pour marchés publics
-          - conception avec le chef de projet
-          - production en relation avec les développeurs internes et externes.
+          - role: Directeur artistique web
+            time: 2010 - 2012
+            company: Hyptique, Paris
+            details: |
+              Direction artistique pour des projets web culturels et publics.
+              Clients : La Documentation Française, le Cemagref, le Museum National d’Histoire Naturelle, le Ministère de la Santé, le Musée d’art moderne André Malraux du Havre.
+              - Conception et réalisation
+              - production en relation avec les développeurs internes et externes.
 
-      - role: Webdesigner
-        time: 2007 - 2010
-        company: Metropolitan Influence, Paris
-        details: |
-          Création de sites web et de supports de communication online.
-          Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
-          - Participation à toutes les phases de production, du design graphique à la mise en ligne, en relation directe avec le client.
+          - role: Webdesigner
+            time: 2007 - 2010
+            company: Metropolitan Influence, Paris
+            details: |
+              Création de sites web et de supports de communication online.
+              Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
+              - Participation à toutes les phases de production, du design graphique à la mise en ligne, en relation directe avec le client.
+    en:
+        title: Experiences
+        info:
+          - role: Designer - interaction & motion
+            time: Since 2018
+            company: Freelance, Quimper, Bretagne
+            details: |
+              User interfaces and user experiences design, motion design (films, UI simulations)
+              Clients : APBO, Cobuy, Hager, Renault, Uvasc
+              - UI design
+              - UX design
+              - motion design
+              - Documentation writing
+              - Prototyping
+              - Customer support
+          - role: Interaction designer
+            time: 2012 - 2018 
+            company: Use Design, Paris
+            details: |
+              User interface design for tablets and mobile applications, supervision systems, HUD, webappps, covering various fields such as health, education, aeronautics and telecommunications. Clients : large companies and startups. Bic Éducation, Renault, Restlet, Thales, SNCF
+              - Art direction
+              - UX,
+              - wireframes and UI guidelines
+              - prototyping
+
+          - role: Web art director
+            time: 2010 - 2012
+            company: Hyptique, Paris
+            details: |
+              Art direction for web projects in public and culture area
+              Clients : La Documentation Française, le Cemagref, le Museum National d’Histoire Naturelle, le Ministère de la Santé, le Musée d’art moderne André Malraux du Havre.
+              - Design & production
+              - production along with external and internal dev team
+
+          - role: Webdesigner
+            time: 2007 - 2010
+            company: Metropolitan Influence, Paris
+            details: |
+              Websites and online marketing assets creation
+              Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
+
 projects:
-    title: Projets
-    intro: >
-      Une sélection de projets réalisés au cours de mon parcours
-    assignments:
-      - title: Proteus - Thales - 2013
-        link: "https://www.thomasguesnon.fr/fr/work/thales-proteus"
-        tagline: "Poste de pilotage innovant pour bizjet"
+    fr:
+        title: Projets
+        intro: >
+          Une sélection de projets réalisés au cours de mon parcours
+        assignments:
+          - title: Proteus - Thales - 2013
+            link: "https://www.thomasguesnon.fr/fr/work/thales-proteus"
+            tagline: "Poste de pilotage innovant pour bizjet"
+    en:
+        title: Projects
+        intro: >
+          Some projects that were achieved during my career
+        assignments:
+          - title: Proteus - Thales - 2013
+            link: "https://www.thomasguesnon.fr/fr/work/thales-proteus"
+            tagline: "Innovative aircraft cockpit design"
 
 oss:
-    title: Contributions OSS, autres projets 
-    intro: >
-      Des contributions open source et des projets non-rémunérés
-    contributions:
-      - title: Robobatteur
-        link: "https://www.thomasguesnon.fr/docs/robobatteur.html"
-        tagline: "Un batteur électronique, construit avec Arduino"
+    fr:
+        title: Contributions OSS, autres projets 
+        intro: >
+          Des contributions open source et des projets non-rémunérés
+        contributions:
+          - title: Robobatteur
+            link: "https://www.thomasguesnon.fr/docs/robobatteur.html"
+            tagline: "Un batteur électronique, construit avec Arduino"
 
-      - title: FreshRSS
-        link: "https://github.com/FreshRSS/FreshRSS/pulls?q=is%3Apr+author%3A%40me"
-        tagline: "Thèmes graphiques pour FreshRSS."
+          - title: FreshRSS
+            link: "https://github.com/FreshRSS/FreshRSS/pulls?q=is%3Apr+author%3A%40me"
+            tagline: "Thèmes graphiques pour FreshRSS."
 
-      - title: Système solaire
-        link: "https://www.thomasguesnon.fr/fr/work/systeme-solaire"
-        tagline: "Vidéo pédagogique sur le système solaire"
+          - title: Système solaire
+            link: "https://www.thomasguesnon.fr/fr/work/systeme-solaire"
+            tagline: "Vidéo pédagogique sur le système solaire"
+    en:
+        title: Contributions OSS, autres projets 
+        intro: >
+          Some contributions to OSS and non commercial projects
+        contributions:
+          - title: Robobatteur
+            link: "https://www.thomasguesnon.fr/docs/robobatteur.html"
+            tagline: "An electronic drummer, built with Arduino"
+
+          - title: FreshRSS
+            link: "https://github.com/FreshRSS/FreshRSS/pulls?q=is%3Apr+author%3A%40me"
+            tagline: "UI themes for FreshRSS."
+
+          - title: Système solaire
+            link: "https://www.thomasguesnon.fr/fr/work/systeme-solaire"
+            tagline: "An educational video on the solar system"
 
 skills:
-     title: Compétences
-     list:
-       - name: Design
-       - name: Expérience utilisateur
-       - name: Motion design
-       - name: Visualisation & organisation de l'information
-       - name: Typographie
-       - name: Ergonomie
-       - name: Développement front
+    fr:
+        title: Compétences
+        list:
+          - name: Design
+          - name: Expérience utilisateur
+          - name: Motion design
+          - name: Visualisation & organisation de l'information
+          - name: Typographie
+          - name: Ergonomie
+          - name: Développement front
+    en:
+        title: Skills
+        list:
+          - name: Design
+          - name: User experience
+          - name: Motion design
+          - name: Visualisation & information architecture
+          - name: Typography
+          - name: Ergonomics
+          - name: Frontend coding
 
 tools:
-  title: Outils
-  daily:
-     title: Usage quotidien
-     list:
-       - name: Outils UX - Figma, Sketch
-       - name: Outils d'animation - Blender, After Effects
-       - name: Illustrator
-       - name: HTML/CSS
-       - name: Javascript
-       - name: Emacs, org-mode
-  occasional:
-    title: Usage régulier et occasionnel
-    list:
-      - name: PAO - Suite Adobe, Inkscape, GIMP, Scribus
-      - name: Libre Office
-      - name: Langages web (serveur) - PHP, Node
-      - name: Cartographie, SIG - Mapbox, JOSM, QGIS
-      - name: Git
-      - name: Administration de serveur, scripting Bash/Python
-      - name: CMS (Wordpress, Drupal)
+    fr:
+        title: Outils
+        daily:
+           title: Usage quotidien
+           list:
+             - name: Outils UX - Figma, Sketch
+             - name: Outils d'animation - Blender, After Effects
+             - name: Illustrator
+             - name: HTML/CSS
+             - name: Javascript
+             - name: Emacs, org-mode
+        occasional:
+          title: Usage régulier et occasionnel
+          list:
+            - name: PAO - Suite Adobe, Inkscape, GIMP, Scribus
+            - name: Libre Office
+            - name: Langages web (serveur) - PHP, Node
+            - name: Cartographie, SIG - Mapbox, JOSM, QGIS
+            - name: Git
+            - name: Administration de serveur, scripting Bash/Python
+            - name: CMS (Wordpress, Drupal)
+    en:
+        title: Tools
+        daily:
+           title: Daily usage
+           list:
+             - name: UX tools - Figma, Sketch
+             - name: motion softwares - Blender, After Effects
+             - name: Illustrator
+             - name: HTML/CSS
+             - name: Javascript
+             - name: Emacs, org-mode
+        occasional:
+          title: Frequent and occasional usage
+          list:
+            - name: PAO - Suite Adobe, Inkscape, GIMP, Scribus
+            - name: Libre Office
+            - name: Web languages (serveur) - PHP, Node
+            - name: Maps, SIG - Mapbox, JOSM, QGIS
+            - name: Git
+            - name: Server admin, Bash/Python scripting
+            - name: CMS (Wordpress, Drupal)
+
 
 footer: >

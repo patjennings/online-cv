@@ -1,6 +1,6 @@
-{% assign tools = site.data.data.tools %}
-{% assign daily_tools = site.data.data.tools.daily %}
-{% assign occasional_tools = site.data.data.tools.occasional %}
+{% assign tools = site.data.data.tools.[page.lang] %}
+{% assign daily_tools = site.data.data.tools.[page.lang].daily %}
+{% assign occasional_tools = site.data.data.tools.[page.lang].occasional %}
 <h2 class="section-title">{{tools.title}}</h2>
 <div class="container">
     
