@@ -258,7 +258,29 @@ skills:
           - name: Typography
           - name: Ergonomics
           - name: Frontend coding
-
+softskills:
+    fr:
+        title: Compétences douces
+        list:
+          - name: Ouverture d'esprit
+          - name: Adaptabilité
+          - name: Communication
+          - name: Intelligence émotionnelle
+          - name: Visualisation
+          - name: Gestion des deadlines
+          - name: Ethique professionnelle
+          - name: Gestion de projets
+    en:
+        title: Soft skills
+        list:
+          - name: Open-mindedness
+          - name: Flexibility
+          - name: Communication
+          - name: Emotional intelligence
+          - name: Visualization
+          - name: Deadlines management
+          - name: Professional ethics
+          - name: Project management
 tools:
     fr:
         title: Outils

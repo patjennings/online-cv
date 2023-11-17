@@ -1,0 +1,17 @@
+{% assign softskills = site.data.data.softskills.[page.lang] %}
+{% if softskills %}
+<section class="softskills-section section">
+
+  <h2 class="section-title">
+    {{ softskills.title }}
+  </h2>
+
+  <ul class="softskillset">
+    {% for skill in softskills.list %}
+      <li class="item">{{skill.name }}</li>
+    {% endfor %}
+
+  </ul>
+
+</section><!--//softskills-section-->
+{% endif %}
