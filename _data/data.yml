@@ -11,7 +11,7 @@ sidebar:
     name: Thomas Guesnon
     tagline: 
         fr:
-            title: Designer - interaction & motion
+            title: Designer - outils numériques
         en:
             title: Designer - interaction & motion
     avatar: portrait.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
@@ -52,34 +52,44 @@ sidebar:
 
     interests:
         fr:
-            title: Centres d'intérêt
+            title: En dehors du travail
             info:
-              - item: Musique (Guitare, basse) 
-                link: 
+              - item: Vélo
+                details: |
+                  En terme d'utilisation des ressources et de rapidité, le vélo est le moyen de transport le plus efficace en ville. Je m'engage donc pour une plus grande reconnaissance de ce mode de transport au quotidien, dans une association FUB.
 
-              - item: Histoires, sciences humaines
-                link:
+              - item: Musique
+                details: |
+                  Guitare, basse, sound design (synthèse, enregistrement, mixage)
 
-              - item : Photographie
-                link:
+              - item: Sport
+                details: |
+                  Sports collectifs (football, basketball), vélo, course à pied
+
         en:
             title: Main interests
             info:
-              - item: Music (Guitar, bass) 
-                link: 
+              - item: Bike
+                details: |
+                  Regarding resources consumption and speed, bike is the most efficient transport mode in urban context. Therefore, i'm engaged into bike promotion for commute and daily usage, in a FUB association.
 
-              - item: History, human sciences
-                link:
+              - item: Music
+                details: |
+                  Guitar, bass, sound design (synthesis, recording, mixing)
 
-              - item : Photography
-                link:
-
+              - item: Sport
+                details: |
+                  Collective sports (football, basketball), bike, running
 
 career-profile:
     fr:
         title: Résumé
         summary: |
-         Je crée des interfaces et des animations. Pour proposer des expériences visuellement attrayantes et efficaces, je m'attaque aux problèmes visuels, d'architecture et de visualisation de l'information, d'ergonomie. Avec quel outils : oreilles, cerveau, animation 2D/3D, typographie, design systems, cartographie, dataviz, code.
+          Je suis designer, avec des compétences et un goût pour la technique. Ces quinze dernières années, j'ai participé à la conception d'applications numériques, dans des contextes divers :
+          - Création d'applications métier pour des startups (Ivanae, Restlet, Uvasc) ou des organismes privés (APBO, Adria)
+          - Création ou amélioration d'applications métier ou grand public (Saas, mobile, embarqué) pour des grands comptes (Thales, Hager), des ETI (Actia, Cobuy) ou des éditeurs logiciels (Archimed, Arkadin, Rimes, Pharmagest)
+          - Design thinking, dans le cadre de la création de service innovant (Mairie de Paris, Renault/EZ, SNCF/Mass transit, Thales/Proteus)
+          - Secteurs : Supervision, transport, santé, télécommunications, aéronautique, automobile
     en:
         title: Summary
         summary: |
@@ -105,45 +115,32 @@ experiences:
     fr:
         title: Expériences
         info:
-          - role: Designer - interaction & motion
+          - role: Designer UX
             time: depuis 2018
             company: Indépendant, Quimper, Bretagne
             details: |
-              Accompagnement dans la conception d'interfaces et d'expériences
-              utilisateur, réalisation d'animations (films, simulations d'interfaces)
+              Conception UX et UI, motion design<br/>
               Clients : APBO, Cobuy, Hager, Renault, Uvasc
-              - Design UI
-              - design UX
-              - motion design
-              - écriture de documentation
-              - création de prototypes
-              - suivi client
-          - role: Designer d'interaction
+          - role: Designer UX
             time: 2012 - 2018 
             company: Use Design, Paris
             details: |
-              Conception d’interfaces homme-machine pour applications tablettes et smartphones, systèmes de supervision, HUD, webapps. Ces applications concernent des utilisateurs variés dans la santé, l’éducation, l’aéronautique ou les télécommunications. Clients : Grands groupes et startups, Bic Education, Renault, Restlet, Thales, SNCF
-              - Direction artistique,
-              - UX,
-              - création de wireframes et de guidelines UI
-              - création de prototypes. 
+              Conception UX et UI, motion design<br/>
+              Clients : Grands groupes et startups, Bic Education, Renault, Restlet, Thales, SNCF
 
           - role: Directeur artistique web
             time: 2010 - 2012
             company: Hyptique, Paris
             details: |
-              Direction artistique pour des projets web culturels et publics.
+              Sites web pour des organismes publics<br/>
               Clients : La Documentation Française, le Cemagref, le Museum National d’Histoire Naturelle, le Ministère de la Santé, le Musée d’art moderne André Malraux du Havre.
-              - Conception et réalisation
-              - production en relation avec les développeurs internes et externes.
 
           - role: Webdesigner
             time: 2007 - 2010
             company: Metropolitan Influence, Paris
             details: |
-              Création de sites web et de supports de communication online.
+              Création de sites web (conception et production), marketing digital<br/>
               Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
-              - Participation à toutes les phases de production, du design graphique à la mise en ligne, en relation directe avec le client.
     en:
         title: Experiences
         info:
@@ -151,23 +148,14 @@ experiences:
             time: Since 2018
             company: Freelance, Quimper, Bretagne
             details: |
-              User interfaces and user experiences design, motion design (films, UI simulations)
+              UX & UI design, motion design<br/>
               Clients : APBO, Cobuy, Hager, Renault, Uvasc
-              - UI design
-              - UX design
-              - motion design
-              - Documentation writing
-              - Prototyping
-              - Customer support
-          - role: Interaction designer
+          - role: Designer UX
             time: 2012 - 2018 
             company: Use Design, Paris
             details: |
-              User interface design for tablets and mobile applications, supervision systems, HUD, webappps, covering various fields such as health, education, aeronautics and telecommunications. Clients : large companies and startups. Bic Éducation, Renault, Restlet, Thales, SNCF
-              - Art direction
-              - UX,
-              - wireframes and UI guidelines
-              - prototyping
+              UX & UI design, motion design<br/>
+              Clients : large companies & startups, Bic Education, Renault, Restlet, Thales, SNCF
 
           - role: Web art director
             time: 2010 - 2012
@@ -175,8 +163,6 @@ experiences:
             details: |
               Art direction for web projects in public and culture area
               Clients : La Documentation Française, le Cemagref, le Museum National d’Histoire Naturelle, le Ministère de la Santé, le Musée d’art moderne André Malraux du Havre.
-              - Design & production
-              - production along with external and internal dev team
 
           - role: Webdesigner
             time: 2007 - 2010
@@ -241,23 +227,55 @@ skills:
     fr:
         title: Compétences
         list:
-          - name: Design
-          - name: Expérience utilisateur
-          - name: Motion design
-          - name: Visualisation & organisation de l'information
-          - name: Typographie
-          - name: Ergonomie
-          - name: Développement front
+          - name: Design UX
+            details: |
+              J'utilise différentes approches et méthodes de design UX, selon la nature du projet, et selon que l'on soit dans une création ou une refonte d'une application (entretiens utilisateur, journey maps, personæs, architecture d'information).
+              Je conçois l'expérience produit, <strong>et m'intéresse également aux usages en dehors de l'outil informatique</strong> (contexte, expertise, rôle de l'utilisateur). Sur des projets plus importants, je peux travailler avec des profils d'UX researchers (Archimed, Mairie de Paris, Thales).
+          - name: Design UI
+            details: |
+              Pour la partie visuelle de la création d'interfaces, je conçois et utilise des <em>design systems</em> et de solides connaissances en typographie, couleur et ergonomie.
+              Pour simuler (visualiser) le résultat final d'une conception UX, je peux également passer par de la création de prototype, ou du motion design<br/>
+              Il m'arrive d'avoir recours à de l'expérimentation visuelle pour tester des façons d'afficher une information. J'ai alors recours à la 3D (Blender), le code (JS, Processing) ou la cartographie.<br/>
+              details
+          - name: Programmation, technique
+            details: |
+              J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind), Javascript. Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web (MVC, single page app, bases de données SQL/No SQL). Je manipule aussi Mapbox, Python, et m'aide de scripts autant que faire se peut.<br/>
+              J'apprécie beaucoup le contact et les échanges avec les intervenants techniques (ingénieurs, développeurs).
+          - name: Gestion de projet
+            details: |
+              J'ai rencontré les grandes méthodologies actuellement à l'œuvre dans la gestion de projets numériques.
+              Le design thinking (Archimed, Mairie de Paris), le lean/MVP (Thales) ou scrum (Restlet), Depuis quelques années, je pratique aussi les design sprints (actia, thales).
+              J'ai une grande capacité à gérer les délais, et à m'adapter en cours de projet.
+              À titre personnel, j'aime découvrir des méthodes de gestion du temps ou de la connaissance comme GTD (Gettig things done) ou Zettelkasten.
+          - name: Design graphique, motion design
+            details: |
+              Je suis également capable d'intervenir ponctuellement sur des sujets périphériques (communication, marketing)(Restlet, Marini-Ermont, Thales, Caravel, Eco3Web, Cobuy). Motion design, branding, illustration
     en:
-        title: Skills
+        title: Compétences
         list:
-          - name: Design
-          - name: User experience
-          - name: Motion design
-          - name: Visualisation & information architecture
-          - name: Typography
-          - name: Ergonomics
-          - name: Frontend coding
+          - name: Design UX
+            details: |
+              J'utilise différentes approches et méthodes de design UX, selon la nature du projet, et selon que l'on soit dans une création ou une refonte d'une application (entretiens utilisateur, journey maps, personæs, architecture d'information).
+              Je conçois l'expérience produit, <strong>et m'intéresse également aux usages en dehors de l'outil informatique</strong> (contexte, expertise, rôle de l'utilisateur). Sur des projets plus importants, je peux travailler avec des profils d'UX researchers (Archimed, Mairie de Paris, Thales).
+          - name: Design UI
+            details: |
+              Pour la partie visuelle de la création d'interfaces, je conçois et utilise des <em>design systems</em> et de solides connaissances en typographie, couleur et ergonomie.
+              Pour simuler (visualiser) le résultat final d'une conception UX, je peux également passer par de la création de prototype, ou du motion design<br/>
+              Il m'arrive d'avoir recours à de l'expérimentation visuelle pour tester des façons d'afficher une information. J'ai alors recours à la 3D (Blender), le code (JS, Processing) ou la cartographie.<br/>
+              details
+          - name: Programmation, technique
+            details: |
+              J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind), Javascript. Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web (MVC, single page app, bases de données SQL/No SQL). Je manipule aussi Mapbox, Python, et m'aide de scripts autant que faire se peut.<br/>
+              J'apprécie beaucoup le contact et les échanges avec les intervenants techniques (ingénieurs, développeurs).
+          - name: Gestion de projet
+            details: |
+              J'ai rencontré les grandes méthodologies actuellement à l'œuvre dans la gestion de projets numériques.
+              Le design thinking (Archimed, Mairie de Paris), le lean/MVP (Thales) ou scrum (Restlet), Depuis quelques années, je pratique aussi les design sprints (actia, thales).
+              J'ai une grande capacité à gérer les délais, et à m'adapter en cours de projet.
+              À titre personnel, j'aime découvrir des méthodes de gestion du temps ou de la connaissance comme GTD (Gettig things done) ou Zettelkasten.
+          - name: Design graphique, motion design
+            details: |
+              Je suis également capable d'intervenir ponctuellement sur des sujets périphériques (communication, marketing)(Restlet, Marini-Ermont, Thales, Caravel, Eco3Web, Cobuy). Motion design, branding, illustration
 softskills:
     fr:
         title: Compétences douces
@@ -267,9 +285,7 @@ softskills:
           - name: Communication
           - name: Intelligence émotionnelle
           - name: Visualisation
-          - name: Gestion des deadlines
           - name: Ethique professionnelle
-          - name: Gestion de projets
     en:
         title: Soft skills
         list:
@@ -278,9 +294,7 @@ softskills:
           - name: Communication
           - name: Emotional intelligence
           - name: Visualization
-          - name: Deadlines management
           - name: Professional ethics
-          - name: Project management
 tools:
     fr:
         title: Outils

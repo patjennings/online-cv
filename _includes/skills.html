@@ -8,10 +8,14 @@
 
   <ul class="skillset">
     {% for skill in skills.list %}
-      <li class="item">{{skill.name }}</li>
-    {% endfor %}
+      <div class="item">
+          <h5 class="title">{{skill.name }}</h5>
+          <p class="details">{{skill.details }}</p>
+      </div>
+      {% endfor %}
 
   </ul>
 
 </section><!--//skills-section-->
 {% endif %}
+
