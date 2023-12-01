@@ -85,7 +85,7 @@ career-profile:
     fr:
         title: Résumé
         summary: |
-          Je suis designer, avec des compétences et un goût pour la technique. Ces quinze dernières années, j'ai participé à la conception d'applications numériques, dans des contextes divers :
+          Je suis designer. Ces quinze dernières années, j'ai participé à la conception d'applications numériques, dans des contextes divers :
           - Création d'applications métier pour des startups (Ivanae, Restlet, Uvasc) ou des organismes privés (APBO, Adria)
           - Création ou amélioration d'applications métier ou grand public (Saas, mobile, embarqué) pour des grands comptes (Thales, Hager), des ETI (Actia, Cobuy) ou des éditeurs logiciels (Archimed, Arkadin, Rimes, Pharmagest)
           - Design thinking, dans le cadre de la création de service innovant (Mairie de Paris, Renault/EZ, SNCF/Mass transit, Thales/Proteus)
@@ -168,8 +168,8 @@ experiences:
             time: 2007 - 2010
             company: Metropolitan Influence, Paris
             details: |
-              Websites and online marketing assets creation
-              Clients : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
+              Websites and online marketing assets Clients
+              creation : Generali, HP, Le Cuir à Paris, Modamont, Apec, ETC Metrologie, Imagina
 
 projects:
     fr:
@@ -236,7 +236,6 @@ skills:
               Pour la partie visuelle de la création d'interfaces, je conçois et utilise des <em>design systems</em> et de solides connaissances en typographie, couleur et ergonomie.
               Pour simuler (visualiser) le résultat final d'une conception UX, je peux également passer par de la création de prototype, ou du motion design<br/>
               Il m'arrive d'avoir recours à de l'expérimentation visuelle pour tester des façons d'afficher une information. J'ai alors recours à la 3D (Blender), le code (JS, Processing) ou la cartographie.<br/>
-              details
           - name: Programmation, technique
             details: |
               J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind), Javascript. Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web (MVC, single page app, bases de données SQL/No SQL). Je manipule aussi Mapbox, Python, et m'aide de scripts autant que faire se peut.<br/>
