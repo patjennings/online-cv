@@ -267,7 +267,6 @@ skills:
               For user interfaces visual aspects, i create and use design systems, with strong knowledge on typography, color theory and ergonomy.
               In order to preview final result, i can develop prototypes (Figma, Framer), use motion design, or even create a draft with HTML/CSS/Js.
               I can use 3D, code (Javascript, Processing) or maps to preview how a information will be displayed, or make visual experimentations.
-
           - name: Programming
             details: |
               I use languages such as HTML, CSS (w/ Bootstrap or Tailwind) and Javascript on a regular basis. On a daily basis, i use scripts on the command line for various tasks. I also use Python to create tools for a personal usage.
