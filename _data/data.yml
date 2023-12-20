@@ -86,15 +86,20 @@ career-profile:
         title: Résumé
         summary: |
           Je suis designer. Ces quinze dernières années, j'ai participé à la conception d'applications numériques, dans des contextes divers :
-          - Création d'applications métier pour des startups (Ivanae, Restlet, Uvasc) ou des organismes privés (APBO, Adria)
-          - Création ou amélioration d'applications métier ou grand public (Saas, mobile, embarqué) pour des grands comptes (Thales, Hager), des ETI (Actia, Cobuy) ou des éditeurs logiciels (Archimed, Arkadin, Rimes, Pharmagest)
-          - Design thinking, dans le cadre de la création de service innovant (Mairie de Paris, Renault/EZ, SNCF/Mass transit, Thales/Proteus)
-          - Secteurs : Supervision, transport, santé, télécommunications, aéronautique, automobile
+          - Création et amélioration d'applications métier ou BtoB (Saas, mobile, embarqué) pour des grands groupes (<a href="https://www.thomasguesnon.fr/fr/work/thales-efb">Thales</a>, <a href="https://www.thomasguesnon.fr/fr/work/hager">Hager</a>), des ETI (<a href="https://www.thomasguesnon.fr/fr/work/actia">Actia</a>, <a href="https://www.thomasguesnon.fr/fr/work/cobuy-app">Cobuy</a>), des organismes privés (<a href="https://www.thomasguesnon.fr/fr/work/apbo">APBO</a>, Adria)
+          - Création d'applications métier pour des startups (<a href="https://www.thomasguesnon.fr/fr/work/ivanae">Ivanae</a>, <a href="https://www.thomasguesnon.fr/fr/work/restlet-studio">Restlet</a>, <a href="https://www.thomasguesnon.fr/fr/work/uvasc">Uvasc</a>) et des éditeurs logiciels (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed</a>, <a href="https://www.thomasguesnon.fr/fr/work/arkadin">Arkadin</a>, Rimes, Pharmagest) 
+          - Design thinking, dans le cadre de la création de service innovant (<a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>, <a href="https://www.thomasguesnon.fr/fr/work/renault-ezgo">Renault/EZ</a>, <a href="https://www.thomasguesnon.fr/fr/work/sncf-mass-transit">SNCF/Mass transit</a>, <a href="https://www.thomasguesnon.fr/fr/work/thales-proteus">Thales/Proteus</a>)
+          - Sites web pour structures publiques (Muma du Havre, Ministère de la Santé, INJEP) et startups (Restlet)
+          - Secteurs : transport, santé, télécommunications, aéronautique, automobile
     en:
         title: Summary
         summary: |
-         I design user interfaces and animations. In order to deliver visually exciting and efficient experiences, i tackle problems like visual design, information architecture, data visualisation and ergonomy. With these tools : ears, brain, 2D/2D animation, typography, design systems, cartography, dataviz, coding.
-
+          I am designer. In the last 15 years, i was involved in the creation of digital applications, in various contexts :
+          - Business app creation and improvement (Saas, mobile, embedded), for large companies(<a href="https://www.thomasguesnon.fr/fr/work/thales-efb">Thales</a>, <a href="https://www.thomasguesnon.fr/fr/work/hager">Hager</a>), medium-size company(<a href="https://www.thomasguesnon.fr/fr/work/actia">Actia</a>, <a href="https://www.thomasguesnon.fr/fr/work/cobuy-app">Cobuy</a>), cooperatives, institutes
+          - Business app creation for startups (<a href="https://www.thomasguesnon.fr/fr/work/ivanae">Ivanae</a>, <a href="https://www.thomasguesnon.fr/fr/work/restlet-studio">Restlet</a>, <a href="https://www.thomasguesnon.fr/fr/work/uvasc">Uvasc</a>) or software editors (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed</a>, <a href="https://www.thomasguesnon.fr/fr/work/arkadin">Arkadin</a>, Rimes, Pharmagest)
+          - Design thinking for innovation (<a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>, <a href="https://www.thomasguesnon.fr/fr/work/renault-ezgo">Renault/EZ</a>, <a href="https://www.thomasguesnon.fr/fr/work/sncf-mass-transit">SNCF/Mass transit</a>, <a href="https://www.thomasguesnon.fr/fr/work/thales-proteus">Thales/Proteus</a>)
+          - Websites for public structures (Muma du Havre, Ministère de la Santé, INJEP) and startups (Restlet).
+          - Fields : transport, health, telecommunications, aeronautic, automotive
 education:
     fr:
         title: Formation
@@ -229,52 +234,53 @@ skills:
         list:
           - name: Design UX
             details: |
-              J'utilise différentes approches et méthodes de design UX, selon la nature du projet, et selon que l'on soit dans une création ou une refonte d'une application (entretiens utilisateur, journey maps, personæs, architecture d'information).
-              Je conçois l'expérience produit, <strong>et m'intéresse également aux usages en dehors de l'outil informatique</strong> (contexte, expertise, rôle de l'utilisateur). Sur des projets plus importants, je peux travailler avec des profils d'UX researchers (Archimed, Mairie de Paris, Thales).
+              J'utilise différentes approches et méthodes de design UX, selon le contexte et la nature du projet — création ou une refonte d'une application (entretiens utilisateur, journey maps, personæs, architecture d'information).
+              Je conçois l'expérience utilisateur, <strong>et m'intéresse aux usages en dehors de l'outil informatique</strong> (contexte, expertise, rôle de l'utilisateur). Sur des projets plus importants, je peux travailler avec des profils d'UX researchers (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed</a>, <a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>, Thales).
           - name: Design UI
             details: |
-              Pour la partie visuelle de la création d'interfaces, je conçois et utilise des <em>design systems</em> et de solides connaissances en typographie, couleur et ergonomie.
-              Pour simuler (visualiser) le résultat final d'une conception UX, je peux également passer par de la création de prototype, ou du motion design<br/>
-              Il m'arrive d'avoir recours à de l'expérimentation visuelle pour tester des façons d'afficher une information. J'ai alors recours à la 3D (Blender), le code (JS, Processing) ou la cartographie.<br/>
+              Pour la partie visuelle de la création d'interfaces, <strong>je conçois et utilise des <em>design systems</em>, avec de solides connaissances en typographie, couleur et ergonomie.</strong>
+              Pour simuler (visualiser) le résultat final d'une conception UX, je crée des prototypes (Figma, Framer), effectue du motion design, voire teste directement avec HTML/CSS/Js<br/>
+              Pour tester des façons d'afficher une information ou effectuer des expérimentations visuelles, je peux avoir recours à la 3D, le code (Javascript, Processing) ou la cartographie.<br/>
           - name: Programmation, technique
             details: |
-              J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind), Javascript. Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web (MVC, single page app, bases de données SQL/No SQL). Je manipule aussi Mapbox, Python, et m'aide de scripts autant que faire se peut.<br/>
-              J'apprécie beaucoup le contact et les échanges avec les intervenants techniques (ingénieurs, développeurs).
+              J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind) et Javascript. J'aime utiliser la ligne de commande pour différentes tâches, et je développe certains outils à usage personnel en Python.
+              Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web. 
+              J'apprécie et recherche le contact et les échanges avec les développeurs et les intervenants techniques.
           - name: Gestion de projet
             details: |
               J'ai rencontré les grandes méthodologies actuellement à l'œuvre dans la gestion de projets numériques.
-              Le design thinking (Archimed, Mairie de Paris), le lean/MVP (Thales) ou scrum (Restlet), Depuis quelques années, je pratique aussi les design sprints (actia, thales).
+              Le design thinking (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed<a>, <a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>), le lean/MVP (<a href="https://www.thomasguesnon.fr/fr/work/uvasc">Uvasc</a>) ou scrum (<a href="https://www.thomasguesnon.fr/fr/work/restlet-studio">Restlet</a>), Depuis quelques années, je pratique aussi les design sprints (<a href="https://www.thomasguesnon.fr/fr/work/actia">Actia</a>, <a href="https://www.thomasguesnon.fr/fr/work/thales-efb">Thales</a>).
               J'ai une grande capacité à gérer les délais, et à m'adapter en cours de projet.
               À titre personnel, j'aime découvrir des méthodes de gestion du temps ou de la connaissance comme GTD (Gettig things done) ou Zettelkasten.
           - name: Design graphique, motion design
             details: |
-              Je suis également capable d'intervenir ponctuellement sur des sujets périphériques (communication, marketing)(Restlet, Marini-Ermont, Thales, Caravel, Eco3Web, Cobuy). Motion design, branding, illustration
+              Je suis également capable d'intervenir ponctuellement sur des sujets périphériques de communication ou de marketing, comme du motion design, du branding ou de l'illustration(<a href="https://www.behance.net/gallery/179831933/Restlet-identit-visuelle">Restlet</a>, Marini-Ermont, Thales, <a href="https://www.behance.net/gallery/182656863/Caravel-identit-visuelle">Caravel</a>, <a href="https://www.behance.net/gallery/182138229/Eco3web-visual-identity">Eco3Web</a>, <a href="https://www.behance.net/gallery/179804493/Cobuy">Cobuy</a>). 
     en:
         title: Compétences
         list:
-          - name: Design UX
+          - name: UX design
             details: |
-              J'utilise différentes approches et méthodes de design UX, selon la nature du projet, et selon que l'on soit dans une création ou une refonte d'une application (entretiens utilisateur, journey maps, personæs, architecture d'information).
-              Je conçois l'expérience produit, <strong>et m'intéresse également aux usages en dehors de l'outil informatique</strong> (contexte, expertise, rôle de l'utilisateur). Sur des projets plus importants, je peux travailler avec des profils d'UX researchers (Archimed, Mairie de Paris, Thales).
-          - name: Design UI
+              I work with various methods and approaches, according to the project type — creation or revamping (user interviews, journey maps, personæs, information architecture).
+              I design user experience, and i am interested in real world concerns around digital usage (context, user skills and role). On large projects, i'm able to work with profile such as UX researchers (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed</a>, <a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>, Thales). 
+          - name: UI design
             details: |
-              Pour la partie visuelle de la création d'interfaces, je conçois et utilise des <em>design systems</em> et de solides connaissances en typographie, couleur et ergonomie.
-              Pour simuler (visualiser) le résultat final d'une conception UX, je peux également passer par de la création de prototype, ou du motion design<br/>
-              Il m'arrive d'avoir recours à de l'expérimentation visuelle pour tester des façons d'afficher une information. J'ai alors recours à la 3D (Blender), le code (JS, Processing) ou la cartographie.<br/>
-              details
-          - name: Programmation, technique
+              For user interfaces visual aspects, i create and use design systems, with strong knowledge on typography, color theory and ergonomy.
+              In order to preview final result, i can develop prototypes (Figma, Framer), use motion design, or even create a draft with HTML/CSS/Js.
+              I can use 3D, code (Javascript, Processing) or maps to preview how a information will be displayed, or make visual experimentations.
+
+          - name: Programming
             details: |
-              J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind), Javascript. Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web (MVC, single page app, bases de données SQL/No SQL). Je manipule aussi Mapbox, Python, et m'aide de scripts autant que faire se peut.<br/>
-              J'apprécie beaucoup le contact et les échanges avec les intervenants techniques (ingénieurs, développeurs).
-          - name: Gestion de projet
+              I use languages such as HTML, CSS (w/ Bootstrap or Tailwind) and Javascript on a regular basis. On a daily basis, i use scripts on the command line for various tasks. I also use Python to create tools for a personal usage.
+              I keep up to date with frameworks and ecosystems in the frontend world.
+              I appreciate and look for sharing with developers and technical people on a project.
+          - name: Project management
             details: |
-              J'ai rencontré les grandes méthodologies actuellement à l'œuvre dans la gestion de projets numériques.
-              Le design thinking (Archimed, Mairie de Paris), le lean/MVP (Thales) ou scrum (Restlet), Depuis quelques années, je pratique aussi les design sprints (actia, thales).
-              J'ai une grande capacité à gérer les délais, et à m'adapter en cours de projet.
-              À titre personnel, j'aime découvrir des méthodes de gestion du temps ou de la connaissance comme GTD (Gettig things done) ou Zettelkasten.
-          - name: Design graphique, motion design
+              I worked with the most popular digital project management methods. Design thinking (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed<a>, <a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>), lean/MVP (<a href="https://www.thomasguesnon.fr/fr/work/uvasc">Uvasc</a>) or scrum (<a href="https://www.thomasguesnon.fr/fr/work/restlet-studio">Restlet</a>). For a few years now, i also integrated design sprints into my practice (<a href="https://www.thomasguesnon.fr/fr/work/actia">Actia</a>, <a href="https://www.thomasguesnon.fr/fr/work/thales-efb">Thales</a>).
+              I've got a strong ability to handle deadlines, as well as adaptative.
+              I like to discover time management or knowledge methods, such as GTD (getting things done) or Zettelkasten.
+          - name: Graphic & motion design
             details: |
-              Je suis également capable d'intervenir ponctuellement sur des sujets périphériques (communication, marketing)(Restlet, Marini-Ermont, Thales, Caravel, Eco3Web, Cobuy). Motion design, branding, illustration
+              Occasionally, i'm also able to create communication and marketing assets, such as motion design, branding or illustration (<a href="https://www.behance.net/gallery/179831933/Restlet-identit-visuelle">Restlet</a>, Marini-Ermont, Thales, <a href="https://www.behance.net/gallery/182656863/Caravel-identit-visuelle">Caravel</a>, <a href="https://www.behance.net/gallery/182138229/Eco3web-visual-identity">Eco3Web</a>, <a href="https://www.behance.net/gallery/179804493/Cobuy">Cobuy</a>).
 softskills:
     fr:
         title: Compétences douces
@@ -282,6 +288,7 @@ softskills:
           - name: Ouverture d'esprit
           - name: Adaptabilité
           - name: Communication
+          - name: Capacité d'apprentissage
           - name: Intelligence émotionnelle
           - name: Visualisation
           - name: Ethique professionnelle
@@ -291,6 +298,7 @@ softskills:
           - name: Open-mindedness
           - name: Flexibility
           - name: Communication
+          - name: Learning capabilities
           - name: Emotional intelligence
           - name: Visualization
           - name: Professional ethics
