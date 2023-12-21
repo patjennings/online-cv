@@ -246,12 +246,6 @@ skills:
               J'utilise très régulièrement les langages de base comme HTML, CSS (w/ Bootstrap ou Tailwind) et Javascript. J'aime utiliser la ligne de commande pour différentes tâches, et je développe certains outils à usage personnel en Python.
               Je me tiens au courant des évolutions des frameworks CSS ou JS, et je connais les grands principes de conception web. 
               J'apprécie et recherche le contact et les échanges avec les développeurs et les intervenants techniques.
-          - name: Gestion de projet
-            details: |
-              J'ai rencontré les grandes méthodologies actuellement à l'œuvre dans la gestion de projets numériques.
-              Le design thinking (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed<a>, <a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>), le lean/MVP (<a href="https://www.thomasguesnon.fr/fr/work/uvasc">Uvasc</a>) ou scrum (<a href="https://www.thomasguesnon.fr/fr/work/restlet-studio">Restlet</a>), Depuis quelques années, je pratique aussi les design sprints (<a href="https://www.thomasguesnon.fr/fr/work/actia">Actia</a>, <a href="https://www.thomasguesnon.fr/fr/work/thales-efb">Thales</a>).
-              J'ai une grande capacité à gérer les délais, et à m'adapter en cours de projet.
-              À titre personnel, j'aime découvrir des méthodes de gestion du temps ou de la connaissance comme GTD (Gettig things done) ou Zettelkasten.
           - name: Design graphique, motion design
             details: |
               Je suis également capable d'intervenir ponctuellement sur des sujets périphériques de communication ou de marketing, comme du motion design, du branding ou de l'illustration(<a href="https://www.behance.net/gallery/179831933/Restlet-identit-visuelle">Restlet</a>, Marini-Ermont, Thales, <a href="https://www.behance.net/gallery/182656863/Caravel-identit-visuelle">Caravel</a>, <a href="https://www.behance.net/gallery/182138229/Eco3web-visual-identity">Eco3Web</a>, <a href="https://www.behance.net/gallery/179804493/Cobuy">Cobuy</a>). 
@@ -272,11 +266,6 @@ skills:
               I use languages such as HTML, CSS (w/ Bootstrap or Tailwind) and Javascript on a regular basis. On a daily basis, i use scripts on the command line for various tasks. I also use Python to create tools for a personal usage.
               I keep up to date with frameworks and ecosystems in the frontend world.
               I appreciate and look for sharing with developers and technical people on a project.
-          - name: Project management
-            details: |
-              I worked with the most popular digital project management methods. Design thinking (<a href="https://www.thomasguesnon.fr/fr/work/archimed">Archimed<a>, <a href="https://www.thomasguesnon.fr/fr/work/mairie-paris">Mairie de Paris</a>), lean/MVP (<a href="https://www.thomasguesnon.fr/fr/work/uvasc">Uvasc</a>) or scrum (<a href="https://www.thomasguesnon.fr/fr/work/restlet-studio">Restlet</a>). For a few years now, i also integrated design sprints into my practice (<a href="https://www.thomasguesnon.fr/fr/work/actia">Actia</a>, <a href="https://www.thomasguesnon.fr/fr/work/thales-efb">Thales</a>).
-              I've got a strong ability to handle deadlines, as well as adaptative.
-              I like to discover time management or knowledge methods, such as GTD (getting things done) or Zettelkasten.
           - name: Graphic & motion design
             details: |
               Occasionally, i'm also able to create communication and marketing assets, such as motion design, branding or illustration (<a href="https://www.behance.net/gallery/179831933/Restlet-identit-visuelle">Restlet</a>, Marini-Ermont, Thales, <a href="https://www.behance.net/gallery/182656863/Caravel-identit-visuelle">Caravel</a>, <a href="https://www.behance.net/gallery/182138229/Eco3web-visual-identity">Eco3Web</a>, <a href="https://www.behance.net/gallery/179804493/Cobuy">Cobuy</a>).
@@ -288,9 +277,10 @@ softskills:
           - name: Adaptabilité
           - name: Communication
           - name: Capacité d'apprentissage
+          - name: Ethique professionnelle
+          - name: Gestion des délais
           - name: Intelligence émotionnelle
           - name: Visualisation
-          - name: Ethique professionnelle
     en:
         title: Soft skills
         list:
@@ -298,9 +288,10 @@ softskills:
           - name: Flexibility
           - name: Communication
           - name: Learning capabilities
+          - name: Professional ethics
+          - name: Time management
           - name: Emotional intelligence
           - name: Visualization
-          - name: Professional ethics
 tools:
     fr:
         title: Outils
