@@ -239,7 +239,7 @@ skills:
           - name: Design UI
             details: |
               Pour la partie visuelle de la création d'interfaces, <strong>je conçois et utilise des <em>design systems</em>, avec de solides connaissances en typographie, couleur et ergonomie.</strong>
-              Pour simuler (visualiser) le résultat final d'une conception UX, je crée des prototypes (Figma, Framer), effectue du motion design, voire teste directement avec HTML/CSS/Js<br/>
+              Je peux créer des prototypes (Figma, Framer), tester directement avec HTML/CSS/Js, ou ajouter du motion design (AfterEffects, Lottie).<br/>
               Pour tester des façons d'afficher une information ou effectuer des expérimentations visuelles, je peux avoir recours à la 3D, le code (Javascript, Processing) ou la cartographie.<br/>
           - name: Programmation, technique
             details: |
@@ -259,7 +259,7 @@ skills:
           - name: UI design
             details: |
               For user interfaces visual aspects, i create and use design systems, with strong knowledge on typography, color theory and ergonomy.
-              In order to preview final result, i can develop prototypes (Figma, Framer), use motion design, or even create a draft with HTML/CSS/Js.
+              i can develop prototypes (Figma, Framer), create a draft with HTML/CSS/Js, or add motion design (AfterEffects, Lottie).<br/>
               I can use 3D, code (Javascript, Processing) or maps to preview how a information will be displayed, or make visual experimentations.
           - name: Programming
             details: |
